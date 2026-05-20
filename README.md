@@ -3,7 +3,7 @@
 Spot It. Snap It. JunkIt.
 Report Waste. Restore Clean.
 
-[Streamlit App] (https://junkit-ug-mjg53ajpdkskvqfngi3qrm.strea)
+[Streamlit App] (https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
 A community-driven platform that empowers Ugandans to report illegal waste dumping and track cleanup progress. Built for the **RELX Environmental Challenge 2026**.
 
