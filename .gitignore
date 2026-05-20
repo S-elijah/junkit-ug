@@ -1,0 +1,4 @@
+junkit-env/
+__pycache__/
+*.pyc
+junkit_reports.csv
