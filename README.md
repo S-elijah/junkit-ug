@@ -71,10 +71,10 @@ junkit-ug/
 Elijah Senabulya
 A Software Engineering student at Victoria University,Kampala.
 
-Email 👉senabulyaelijahk@gmail.com
-GitHub 👉 https://github.com/S-elijah
-X/Twitter 👉 @KSenabulyaE
-Linkedin 👉 KSenabulyaE 
+Email 👉senabulyaelijahk@gmail.com |
+GitHub 👉 https://github.com/S-elijah |
+X/Twitter 👉 @KSenabulyaE |
+Linkedin 👉 KSenabulyaE |
 
 Passionate about using technology to solve real community problems. This prototype was built with four months of Python programming fundamentals.
 
