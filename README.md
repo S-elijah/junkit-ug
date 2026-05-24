@@ -1,27 +1,26 @@
-```markdown
+# markdown
 🗑️ JunkIt UG  
 Spot It. Snap It. JunkIt.
 Report Waste. Restore Clean.
 
 [Streamlit App] [(https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
 
-A community-driven platform that empowers Ugandans to report illegal waste dumping and track cleanup progress. Built for the **RELX Environmental Challenge 2026**.
+A community-driven platform that empowers Ugandans to report illegal waste dumping and track cleanup progress. Built for the Environmental Challenge 2026.
 
+Current MVP Features
 
-✨ Current MVP Features
+👉 📝 Report Illegal Dumping– Submit location and description of waste dumped in your community.  
+👉📊 Public Dashboard – View all active reports and filter by status.  
+👉 🔄 Status Tracking – Reports move from 🐣Pending 📢Acknowledged 👉✍️ Resolved.  
+👉 📈 Statistics– Real‑time metrics and bar charts showing community impact.  
+👉 📱 Mobile‑Responsive – Works on any smartphone browser without app installation.  
 
-- 📝 Report Illegal Dumping– Submit location and description of waste dumped in your community.  
-- 📊 Public Dashboard – View all active reports and filter by status.  
-- 🔄 Status Tracking – Reports move from **Pending → Acknowledged → Resolved**.  
-- 📈 Statistics– Real‑time metrics and bar charts showing community impact.  
-- 📱 Mobile‑Responsive – Works on any smartphone browser without app installation.  
-
-Planned features: photo upload, GPS auto‑location, USSD access for basic phones, SMS alerts, and an interactive hotspot map.*
+Planned features: photo upload, GPS auto‑location, USSD access for basic phones, SMS alerts, and an interactive hotspot map.
 
 🛠️ Tech Stack
 
-| Layer           | Technology                        |
-|-----------------|-----------------------------------|
+| Layer           | Technology
+|-----------------|--------------------------|
 | Frontend       | [Streamlit](https://streamlit.io) |
 | Backend        | Python                            |
 | Data Storage   | CSV (prototype) → SQLite (planned)|
@@ -34,7 +33,7 @@ Run Locally
 
 Requirements:Python 3.8+, pip, Git
 
-```bash
+# bash
 # Clone the repo
 git clone https://github.com/S-elijah/junkit-ug.git
 cd junkit-ug
@@ -49,7 +48,7 @@ pip install -r requirements.txt
 
 # Launch the app
 streamlit run junkit.py
-```
+
 
 Open http://localhost:8501 in your browser.
 
@@ -62,9 +61,9 @@ Open http://localhost:8501 in your browser.
 📁 Project Structure
 
 junkit-ug/
-——>junkit.py           # Main Streamlit application
-——>requirements.txt    # Python dependencies
-——>README.md           # This file
+🦾junkit.py           # Main Streamlit application
+✍️requirements.txt    # Python dependencies
+✍️README.md           # This file
 
 
 👤 About the Developer
@@ -72,7 +71,9 @@ junkit-ug/
 Elijah Senabulya
 First‑year Software Engineering student at Victoria University, Kampala.
 📧 senabulyaelijahk@gmail.com
-🔗 GitHub
+🔗 GitHub 👉 https://github.com/S-elijah
+✖️ X/Twitter 👉 @KSenabulyaE
+🔗 Linkedin 👉 KSenabulyaE 
 
 Passionate about using technology to solve real community problems. This prototype was built with four months of Python programming fundamentals.
 
@@ -84,7 +85,6 @@ This is an open‑source student project. Feedback, bug reports, and pull reques
 Fork the repo, create a branch, commit your changes, and open a PR.
 
 
-JunkIt UG – Turning community vigilance into cleaner neighbourhoods, one report at a time.
-
+JunkIt UG – Turning community vigilance into  cleaner neighbourhoods, one report at a time.
 
 🗑️ Spot It. 📸 Snap It. 🚮 JunkIt.
